@@ -5,9 +5,6 @@ Aplicación desarrollada para la materia de Programación de Dispositivos Móvil
 
 Para compilar y ejecutar el proyecto se necesita:
 
--
-
-
 Ejecución de la aplicación
 
 Abrir Android Studio.
